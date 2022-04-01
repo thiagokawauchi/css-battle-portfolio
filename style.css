@@ -954,11 +954,3 @@ main {
     height: 168.75px;
     border-radius: 3px;
 }
-
-footer {
-    margin-top: 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    margin-bottom: 40px;
-}
