@@ -48,6 +48,7 @@ main {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    margin-bottom: 40px;
 }
 
 .pseudo-body {
@@ -912,6 +913,40 @@ main {
     height: 60px;
     width: 60px;
     border-top-left-radius: 60px;
+}
+
+#target-19 {
+    background: #0B2429;
+}
+
+#target-19-div-1 {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background: #F3AC3C;
+    transform: rotate(45deg);
+    margin-left: 112.5px;
+    margin-top: 101.25px;
+}
+
+#target-19-div-2 {
+    position: absolute;
+    width: 52.5px;
+    height: 52.5px;
+    background: #998235;
+    margin-left: 97.5px;
+    margin-top: 60px;
+    transform: skewY(-45deg);
+}
+
+#target-19-div-3 {
+    position: absolute;
+    width: 52.5px;
+    height: 52.5px;
+    background: #1A4341;
+    margin-left: 150px;
+    margin-top: 60px;
+    transform: skewY(45deg);
 }
 
 #farmer {
