@@ -1,7 +1,6 @@
 Portfolio of completed challenges on the CSS Battle website.
-
-<img src="./readme-sample.png">
+The images below were generated with HTML and CSS only. They are not image files.
 
 <a href="https://thiagokawauchi.github.io/css-battle-portfolio/" target="_blank">https://thiagokawauchi.github.io/css-battle-portfolio/</a>
 
-Portfolio dos desafios realizados no site CSS Battle.
+<img src="./readme-sample.png">
